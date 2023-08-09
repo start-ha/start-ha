@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=GitHub%20start-ha&fontSize=50)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=start-ha%20%20GitHub!&fontSize=90" />
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=start-ha)](https://github.com/start-ha)
 
