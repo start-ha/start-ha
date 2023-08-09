@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20start-ha&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=GitHub%20start-ha&fontSize=50)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=start-ha)](https://github.com/start-ha)
 
