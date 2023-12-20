@@ -17,12 +17,8 @@
 
 
 
-**bold** <br>
-*italic* <br>
-~~strikethorough~~ <br>
-
    1.Java study  
-   2.persnal record
+   2.personal record
  
 
 ```
