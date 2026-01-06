@@ -1,25 +1,46 @@
-<div align = "center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=start-ha%20%20GitHub!&fontSize=80" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=start-ha%20%20GitHub!&fontSize=80"
+    alt="start-ha GitHub header"
+  />
 
+  <br/>
 
-[![HY's github stats](https://github-readme-stats.vercel.app/api?username=start-ha)](https://github.com/start-ha  ) 
+  <a href="https://github.com/start-ha">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=start-ha&show_icons=true"
+      alt="HY's github stats"
+    />
+  </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=start-ha)](https://github.com/start-ha/github-readme-stats)
+  <br/>
 
+  <a href="https://github.com/start-ha">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=start-ha&layout=compact"
+      alt="Top Langs"
+    />
+  </a>
 
-[자바](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=ffffff)
-[자바스크립트](https://img.shields.io/badge/-JS-007396?style=flat&logo=Java&logoColor=ffffff)
+  <br/><br/>
 
+  <img
+    src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=ffffff"
+    alt="Java"
+  />
+  <img
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000"
+    alt="JavaScript"
+  />
 
----
+  <br/><br/>
 
+  <hr style="width:60%;" />
 
-
-
-   1.Java study  
-   2.personal record
- 
- 
+  <p>
+    1. Java study<br/>
+    2. personal record
+  </p>
 
 </div>
