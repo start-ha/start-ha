@@ -1,6 +1,6 @@
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=start-ha%20GitHub&fontSize=80&fontAlign=50"
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Hayeong%20GitHub&fontSize=80&fontAlign=50"
   alt="HaYeong GitHub header"
 />
 
