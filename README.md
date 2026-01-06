@@ -28,8 +28,8 @@
   <img src="https://img.shields.io/badge/React-Using-61DAFB?style=flat&logo=react&logoColor=000000" />
 </p>
 
-- ✔ 실습 및 프로젝트에서 실제 사용  
-- ✔ 기본 CRUD, 관리자 기능, API 연동 경험
+-  실습 및 프로젝트에서 실제 사용  
+-  기본 CRUD, 관리자 기능, API 연동 경험
 
 ---
 
