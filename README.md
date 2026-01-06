@@ -8,23 +8,6 @@
 
   <br/>
 
-  <!--  GitHub Stats -->
-  <a href="https://github.com/start-ha">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=start-ha&show_icons=true"
-      alt="GitHub stats"
-    />
-  </a>
-
-  <br/>
-
-  <a href="https://github.com/start-ha">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=start-ha&layout=compact"
-      alt="Top languages"
-    />
-  </a>
-
 </div>
 
 ---
